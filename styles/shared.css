@@ -1,0 +1,33 @@
+* {
+  font-family: Arial;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+h1 {
+  background-color: lightblue;
+}
+
+h2 {
+  background-color: lightpink;
+}
+
+ol li {
+  text-align: start;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+.ingredients {
+  background-color: lightgreen;
+}
